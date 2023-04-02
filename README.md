@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'll become the best developer I can be</h3>
+<h1 align="center">I'll become the best developer I can be</h1>
+<h3 align="center">Welcome!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroorafa&label=Profile%20views&color=0e75b6&style=flat" alt="pedroorafa" /> </p>
 
