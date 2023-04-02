@@ -1,5 +1,6 @@
 <h1 align="center">I'll become the best developer I can be!</h1>
 <h3 align="center">Welcome :robot:</h3>
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroorafa&label=Profile%20views&color=0e75b6&style=flat" alt="pedroorafa" /> </p>
 
